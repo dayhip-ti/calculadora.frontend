@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
+}
+
+form {
+    border: 5px solid black;
+    cursor: pointer;
+}
+
+.pfotter {
+    color: brown;
+    text-shadow: 4px 4px 8px rgb(141, 52, 52);
+    background-color: black;
+    margin-top: 20px;
+    bottom: 0px;
+    text-align: center;
+    border: 5px solid black;
+    box-shadow: 2px 2px 4px blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
